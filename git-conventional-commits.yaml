@@ -31,7 +31,7 @@ changelog:
     breakingChange: BREAKING CHANGES
 
   ## GitHub
-  # commitUrl: https://github.com/ACCOUNT/REPOSITORY/commit/%commit%
+#  commitUrl: https://github.com/will-knight-29/next-enterprise/commit/%commit%
   # commitRangeUrl: https://github.com/ACCOUNT/REPOSITORY/compare/%from%...%to%?diff=split
 
   ## GitHub Issues
